@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kripCC
-- 👀 I’m interested in Automation, Scrapers and anything bot related!
-- 🌱 I’m currently an expert in Java, and an Intermediate coder in C# and python
+- 👋 Hi, I’m Ian
+- 👀 I’m interested in Cloud Automation, Architectural Data Visualization, and Network Performance Testing. 
+- 🌱 I’m currently an expert in Java, Node.JS and python, and an Intermediate coder in C#
 
 <!---
 kripCC/kripCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
